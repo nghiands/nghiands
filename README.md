@@ -1,19 +1,49 @@
-# 👋 Hi, I'm Van Nghia Nguyen!  
+# Hi, I'm Nghia Nguyen 👋
 
-💫**Madridista | Data Analyst**
------------------------------
-
-* 🌍  I'm based in Hanoi, Vietnam.
-* 👨‍🎓  Studying Information Technology, University of Transport and Communications ([UTC](https://www.utc.edu.vn/))
-* 👨‍💻  Passionate about data analysis and building machine learning models
-* 🤝  You can contact me at [vannghiannds@gmail.com](mailto:vannghiannds@gmail.com)
-
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/van-nghia-nguyen-35000b333/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@national_flags) 
-
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
+🎓 **Aspiring Data Scientist** | 🌍 Based in Vietnam | 📊 **Data Enthusiast**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nghiands&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👨‍💻 About Me
+
+Hello! I'm Nghia Nguyen, a passionate data analyst and machine learning enthusiast. My journey in data started with curiosity about uncovering patterns and trends that drive meaningful insights. With a solid foundation in Python, SQL, and data visualization tools, I am working towards becoming a **Data Scientist** in the next 3-5 years.
+
+---
+
+## 🚀 Skills & Tools
+
+- **Programming & Data Processing**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- **Databases**: SQL (Microsoft SQL Server, MySQL)
+- **Data Visualization**: Power BI, Tableau
+- **Machine Learning**: Model building, feature engineering, exploratory data analysis (EDA)
+
+---
+<!-- 
+## 🌟 Projects
+
+Here are a few highlights of my work:
+
+1. **[Health Insurance Analysis](#)**: Analyzed customer health data to identify trends and provide insights for decision-making.
+2. **[FP-Growth Algorithm for Market Basket Analysis](#)**: Applied FP-Growth to uncover association rules in sales data for a retail store.
+3. **[Motorbike Rental Revenue Dashboard](#)**: Built a Power BI dashboard to visualize monthly, annual, and location-based revenues for a rental service.
+4. **[Mental Health Impact Analysis](#)**: Investigated the correlation between technology usage time and mental health outcomes.
+
+---
+-->
+## 🌱 Learning & Growth
+
+- Currently exploring advanced data analysis techniques and machine learning algorithms.
+- Actively improving storytelling and visualization skills to make data-driven insights more impactful.
+- Pursuing courses on platforms like Coursera to stay updated with industry trends.
+
+---
+
+## 💬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nghia-nguyen-35000b333/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/nghiands)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:vannghiands@gmail.com)
+
+---
+
+📌 *"Data is not just numbers on a page; it’s a story waiting to be told." – Unknown*
