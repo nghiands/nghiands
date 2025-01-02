@@ -14,7 +14,7 @@ Hello! I'm Nghia Nguyen, a passionate data analyst and machine learning enthusia
 
 - **Programming & Data Processing**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - **Databases**: SQL (Microsoft SQL Server, MySQL)
-- **Data Visualization**: Power BI, Tableau
+- **Data Visualization**: Power BI, Tableau,Excel
 - **Machine Learning**: Model building, feature engineering, exploratory data analysis (EDA)
 
 ---
