@@ -1,4 +1,4 @@
-# Hi, I'm Nghia Nguyen 👋
+# Hi, I'm Nghiands 👋
 
 ✅ **Madridista** | 🌍 Based in Vietnam | 📊 **Data Enthusiast**
 
@@ -46,8 +46,8 @@ Here are a few highlights of my work:
 ---
 
 ## 🎓 Certifications
-- [Google Data Analytics Professional Certificate (Coursera)]()
-- [Certificate of Scientific Research, Faculty of Information Technology, UTC]().
+- [Google Data Analytics Professional Certificate (Coursera)](https://github.com/nghiands/certificates/blob/main/Cetificates/GG%20Data%20Analytics.pdf)
+- [Certificate of Scientific Research, Faculty of Information Technology, UTC](https://github.com/nghiands/certificates/blob/main/Cetificates/Ch%E1%BB%A9ng_Nh%E1%BA%ADn_NCKH.jpg).
   
 ---
 📌 *"Data is not just numbers on a page; it’s a story waiting to be told." – Unknown*
