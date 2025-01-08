@@ -1,3 +1,4 @@
+<!--
 # Hi, I'm Nghiands 👋
 
 ✅ **Madridista** | 🌍 Based in Vietnam | 📊 **Data Enthusiast**
@@ -9,6 +10,7 @@ Hello! My name is **Nghia Nguyen**, a data analysis enthusiast. My journey into 
 <!--
 Hello! I'm Nghia Nguyen, a passionate data analyst and machine learning enthusiast. My journey in data started with curiosity about uncovering patterns and trends that drive meaningful insights. With a solid foundation in Python, SQL, and data visualization tools, I am working towards becoming a **Data Scientist** in the next 3-5 years.
 -->
+<!--
 ---
 
 ## 🚀 Skills & Tools
@@ -17,8 +19,10 @@ Hello! I'm Nghia Nguyen, a passionate data analyst and machine learning enthusia
 - **Databases**: SQL (Microsoft SQL Server, MySQL)
 - **Data Visualization**: Power BI, Tableau,Excel
 - **Machine Learning**: Model building, feature engineering, exploratory data analysis (EDA)
-
+-->
+<!--
 ---
+
 <!-- 
 ## 🌟 Projects
 
@@ -31,6 +35,8 @@ Here are a few highlights of my work:
 
 ---
 -->
+<!--
+
 ## 🌱 Learning & Growth
 
 - Currently exploring advanced data analysis techniques and machine learning algorithms.
@@ -51,3 +57,6 @@ Here are a few highlights of my work:
   
 ---
 📌 *"Data is not just numbers on a page; it’s a story waiting to be told." – Unknown*
+
+
+-->
