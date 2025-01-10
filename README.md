@@ -1,12 +1,15 @@
-<!--
-# Hi, I'm Nghiands 👋
 
+# Hi, I'm Nghiands 👋
+Hello! My name is **Nghia Nguyen**. Currently, I'm a 4th year student of the IT department at the University of Transport and Communications and this is my portfolio on Github.
+<!--
 ✅ **Madridista** | 🌍 Based in Vietnam | 📊 **Data Enthusiast**
 
 ---
 
 ## 👨‍💻 About Me
-Hello! My name is **Nghia Nguyen**, a data analysis enthusiast. My journey into data began with a curiosity about discovering patterns and trends that drive meaningful insights. Currently, I'm a 4th year student of the IT department at the University of Transport and Communications and this is my portfolio on Github.
+-->
+<!--
+Hello! My name is **Nghia Nguyen**, a data analysis enthusiast. My journey into data began with a curiosity about discovering patterns and trends that drive meaningful insights. Currently, I'm a 4th year student of the IT department at the University of Transport and Communications and this is my portfolio on Github.-->
 <!--
 Hello! I'm Nghia Nguyen, a passionate data analyst and machine learning enthusiast. My journey in data started with curiosity about uncovering patterns and trends that drive meaningful insights. With a solid foundation in Python, SQL, and data visualization tools, I am working towards becoming a **Data Scientist** in the next 3-5 years.
 -->
